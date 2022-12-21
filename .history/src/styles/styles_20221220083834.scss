@@ -1,0 +1,15 @@
+
+$theme-colors: (
+    "primary":    #2c3e50,
+    "secondary":  $secondary,
+    "success":    $success,
+    "info":       $info,
+    "warning":    $warning,
+    "danger":     $danger,
+    "light":      $light,
+    "dark":       $dark
+  );
+  
+
+
+@import 'node_modules/bootstrap/scss/bootstrap.scss'

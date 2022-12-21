@@ -1,0 +1,9 @@
+<template>
+  <div class="home">
+    <img alt="Vue logo" src="../assets/logo.png">
+    <h1> Hola Mundo</h1>
+    <button c> Primary </button>
+    <button> Secundary </button>
+    <button> Success </button>
+  </div>
+</template>

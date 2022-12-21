@@ -1,0 +1,17 @@
+<template>
+</template>
+
+<script>
+import {defineAsyncComponent} from 'vue'
+
+export default {
+     components: {
+         Navbar: defineAsyncComponent(() => import(''))
+     }
+
+}
+</script>
+
+<style>
+
+</style>
